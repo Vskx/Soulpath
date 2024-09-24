@@ -78,14 +78,13 @@ export function NotionQuotesComponent(): JSX.Element {
     }
   };
 
-  const filteredQuotes = quotes.filter(
-    (quote) =>
-      (selectedCategory === "all" ||
-        (selectedCategory === "favourites" &&
-          favouriteQuotes.includes(quote.id)) ||
-        quote.categoryId === selectedCategory) &&
-      (quote.text.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        quote.author.toLowerCase().includes(searchTerm.toLowerCase()))
+  const filteredQuotes = quotes.filter((quote) =>
+    (selectedCategory === "all" ||
+      (selectedCategory === "favourites" &&
+        favouriteQuotes.includes(quote.id)) ||
+      quote.categoryId === selectedCategory) &&
+    (quote.text.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      quote.author.toLowerCase().includes(searchTerm.toLowerCase()))
   );
 
   useEffect(() => {
@@ -211,10 +210,14 @@ export function NotionQuotesComponent(): JSX.Element {
             <AlertDialogHeader>
               <AlertDialogTitle>Quote</AlertDialogTitle>
               <AlertDialogDescription>
-                "{selectedQuote.text}" - {selectedQuote.author}
+                &quot;{selectedQuote.text}&quot; - {selectedQuote.author}
               </AlertDialogDescription>
             </AlertDialogHeader>
-            <AlertDialogFooter></AlertDialogFooter>
+            <AlertDialogFooter>
+              <Button variant="outline" onClick={() => setSelectedQuote(null)}>
+                Close
+              </Button>
+            </AlertDialogFooter>
           </AlertDialogContent>
         </AlertDialog>
       )}
