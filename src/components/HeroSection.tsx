@@ -15,7 +15,7 @@ import { GoogleGenerativeAI } from "@google/generative-ai";
 import { useState } from "react";
 import ReactMarkdown from "react-markdown"; // Import react-markdown
 
-// Funkcja do obsługi API Google Gemini
+// Function to handle API requests to Google Gemini
 async function fetchResponse(prompt: string): Promise<string> {
   const genAI = new GoogleGenerativeAI(
     process.env.NEXT_PUBLIC_API_KEY as string
@@ -43,7 +43,7 @@ export default function HeroSection() {
     <section className="pt-32 pb-20 px-4">
       <div className="container mx-auto max-w-4xl text-center">
         <h1 className="text-4xl font-bold tracking-tight sm:text-6xl mb-6 bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary-foreground">
-          Open your heart to God's Word
+          Open your heart to God&apos;s Word
         </h1>
         <p className="text-xl text-muted-foreground mb-8">
           Immerse yourself in the words of Scripture and discover God who is
@@ -53,7 +53,7 @@ export default function HeroSection() {
         <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4">
           <Input
             type="text"
-            placeholder="search for biblical texts"
+            placeholder="Search for biblical texts"
             className="max-w-xs"
             value={searchInput}
             onChange={(e) => setSearchInput(e.target.value)}
