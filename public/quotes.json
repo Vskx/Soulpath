@@ -1,0 +1,776 @@
+[
+  {
+    "id": "1",
+    "text": "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
+    "author": "Joshua 1:9",
+    "categoryId": "courage"
+  },
+  {
+    "id": "2",
+    "text": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud.",
+    "author": "1 Corinthians 13:4",
+    "categoryId": "love"
+  },
+  {
+    "id": "3",
+    "text": "The Lord is my shepherd, I lack nothing.",
+    "author": "Psalm 23:1",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "4",
+    "text": "Weeping may stay for the night, but rejoicing comes in the morning.",
+    "author": "Psalm 30:5",
+    "categoryId": "sadness"
+  },
+  {
+    "id": "5",
+    "text": "I can do all things through Christ who strengthens me.",
+    "author": "Philippians 4:13",
+    "categoryId": "strength"
+  },
+  {
+    "id": "6",
+    "text": "Therefore do not worry about tomorrow, for tomorrow will worry about itself.",
+    "author": "Matthew 6:34",
+    "categoryId": "anxiety"
+  },
+  {
+    "id": "7",
+    "text": "Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person.",
+    "author": "Colossians 4:6",
+    "categoryId": "wisdom"
+  },
+  {
+    "id": "8",
+    "text": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future.",
+    "author": "Jeremiah 29:11",
+    "categoryId": "hope"
+  },
+  {
+    "id": "9",
+    "text": "Cast all your anxiety on him because he cares for you.",
+    "author": "1 Peter 5:7",
+    "categoryId": "anxiety"
+  },
+  {
+    "id": "10",
+    "text": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness.",
+    "author": "Galatians 5:22",
+    "categoryId": "fruit_of_the_spirit"
+  },
+  {
+    "id": "11",
+    "text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose.",
+    "author": "Romans 8:28",
+    "categoryId": "faith"
+  },
+  {
+    "id": "12",
+    "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+    "author": "Philippians 4:6",
+    "categoryId": "anxiety"
+  },
+  {
+    "id": "13",
+    "text": "The Lord will fight for you; you need only to be still.",
+    "author": "Exodus 14:14",
+    "categoryId": "strength"
+  },
+  {
+    "id": "14",
+    "text": "Blessed are those who mourn, for they will be comforted.",
+    "author": "Matthew 5:4",
+    "categoryId": "sadness"
+  },
+  {
+    "id": "15",
+    "text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose.",
+    "author": "Romans 8:28",
+    "categoryId": "faith"
+  },
+  {
+    "id": "16",
+    "text": "I sought the Lord, and he answered me; he delivered me from all my fears.",
+    "author": "Psalm 34:4",
+    "categoryId": "fear"
+  },
+  {
+    "id": "17",
+    "text": "God is our refuge and strength, an ever-present help in trouble.",
+    "author": "Psalm 46:1",
+    "categoryId": "strength"
+  },
+  {
+    "id": "18",
+    "text": "For God has not given us a spirit of fear, but of power and of love and of a sound mind.",
+    "author": "2 Timothy 1:7",
+    "categoryId": "courage"
+  },
+  {
+    "id": "19",
+    "text": "Be still, and know that I am God.",
+    "author": "Psalm 46:10",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "20",
+    "text": "Delight yourself in the Lord, and he will give you the desires of your heart.",
+    "author": "Psalm 37:4",
+    "categoryId": "hope"
+  },
+  {
+    "id": "21",
+    "text": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
+    "author": "Proverbs 3:5-6",
+    "categoryId": "faith"
+  },
+  {
+    "id": "22",
+    "text": "The Lord your God is with you, the Mighty Warrior who saves.",
+    "author": "Zephaniah 3:17",
+    "categoryId": "courage"
+  },
+  {
+    "id": "23",
+    "text": "Humble yourselves before the Lord, and he will lift you up.",
+    "author": "James 4:10",
+    "categoryId": "humility"
+  },
+  {
+    "id": "24",
+    "text": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
+    "author": "Isaiah 41:10",
+    "categoryId": "courage"
+  },
+  {
+    "id": "25",
+    "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
+    "author": "Psalm 34:18",
+    "categoryId": "sadness"
+  },
+  {
+    "id": "26",
+    "text": "He heals the brokenhearted and binds up their wounds.",
+    "author": "Psalm 147:3",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "27",
+    "text": "We are hard pressed on every side, but not crushed; perplexed, but not in despair; persecuted, but not abandoned; struck down, but not destroyed.",
+    "author": "2 Corinthians 4:8-9",
+    "categoryId": "strength"
+  },
+  {
+    "id": "28",
+    "text": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+    "author": "Psalm 23:4",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "29",
+    "text": "The Lord is my light and my salvation— whom shall I fear? The Lord is the stronghold of my life— of whom shall I be afraid?",
+    "author": "Psalm 27:1",
+    "categoryId": "fear"
+  },
+  {
+    "id": "30",
+    "text": "Do not let your hearts be troubled. You believe in God; believe also in me.",
+    "author": "John 14:1",
+    "categoryId": "faith"
+  },
+  {
+    "id": "31",
+    "text": "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken.",
+    "author": "Psalm 55:22",
+    "categoryId": "anxiety"
+  },
+  {
+    "id": "32",
+    "text": "Rejoice in the Lord always. I will say it again: Rejoice!",
+    "author": "Philippians 4:4",
+    "categoryId": "joy"
+  },
+  {
+    "id": "33",
+    "text": "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.",
+    "author": "Galatians 6:9",
+    "categoryId": "perseverance"
+  },
+  {
+    "id": "34",
+    "text": "In all your ways acknowledge him, and he will make straight your paths.",
+    "author": "Proverbs 3:6",
+    "categoryId": "faith"
+  },
+  {
+    "id": "35",
+    "text": "Do not fear, for I have redeemed you; I have summoned you by name; you are mine.",
+    "author": "Isaiah 43:1",
+    "categoryId": "courage"
+  },
+  {
+    "id": "36",
+    "text": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future.",
+    "author": "Jeremiah 29:11",
+    "categoryId": "hope"
+  },
+  {
+    "id": "37",
+    "text": "God is our refuge and strength, an ever-present help in trouble.",
+    "author": "Psalm 46:1",
+    "categoryId": "strength"
+  },
+  {
+    "id": "38",
+    "text": "Let everything that has breath praise the Lord. Praise the Lord.",
+    "author": "Psalm 150:6",
+    "categoryId": "worship"
+  },
+  {
+    "id": "39",
+    "text": "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary; they will walk and not be faint.",
+    "author": "Isaiah 40:31",
+    "categoryId": "hope"
+  },
+  {
+    "id": "40",
+    "text": "The righteous cry out, and the Lord hears them; he delivers them from all their troubles.",
+    "author": "Psalm 34:17",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "41",
+    "text": "The Lord is gracious and righteous; our God is full of compassion.",
+    "author": "Psalm 116:5",
+    "categoryId": "compassion"
+  },
+  {
+    "id": "42",
+    "text": "The Lord is my strength and my shield; my heart trusts in him, and he helps me.",
+    "author": "Psalm 28:7",
+    "categoryId": "strength"
+  },
+  {
+    "id": "43",
+    "text": "Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.",
+    "author": "Matthew 5:10",
+    "categoryId": "perseverance"
+  },
+  {
+    "id": "44",
+    "text": "Do not be afraid of the terrors of the night, nor the arrow that flies in the day.",
+    "author": "Psalm 91:5",
+    "categoryId": "fear"
+  },
+  {
+    "id": "45",
+    "text": "The eyes of the Lord are on the righteous, and his ears are attentive to their cry.",
+    "author": "Psalm 34:15",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "46",
+    "text": "He gives strength to the weary and increases the power of the weak.",
+    "author": "Isaiah 40:29",
+    "categoryId": "strength"
+  },
+  {
+    "id": "47",
+    "text": "You are my refuge and my shield; I have put my hope in your word.",
+    "author": "Psalm 119:114",
+    "categoryId": "hope"
+  },
+  {
+    "id": "48",
+    "text": "Do not be afraid, little flock, for your Father has been pleased to give you the kingdom.",
+    "author": "Luke 12:32",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "49",
+    "text": "You will keep in perfect peace those whose minds are steadfast, because they trust in you.",
+    "author": "Isaiah 26:3",
+    "categoryId": "peace"
+  },
+  {
+    "id": "50",
+    "text": "God is our refuge and strength, a very present help in trouble.",
+    "author": "Psalm 46:1",
+    "categoryId": "strength"
+  },
+  {
+    "id": "51",
+    "text": "He will cover you with his feathers, and under his wings, you will find refuge.",
+    "author": "Psalm 91:4",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "52",
+    "text": "Jesus said, 'I am the way and the truth and the life. No one comes to the Father except through me.'",
+    "author": "John 14:6",
+    "categoryId": "faith"
+  },
+  {
+    "id": "53",
+    "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+    "author": "John 3:16",
+    "categoryId": "love"
+  },
+  {
+    "id": "54",
+    "text": "You are the light of the world. A town built on a hill cannot be hidden.",
+    "author": "Matthew 5:14",
+    "categoryId": "faith"
+  },
+  {
+    "id": "55",
+    "text": "He who dwells in the secret place of the Most High shall abide under the shadow of the Almighty.",
+    "author": "Psalm 91:1",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "56",
+    "text": "A cheerful heart is good medicine, but a crushed spirit dries up the bones.",
+    "author": "Proverbs 17:22",
+    "categoryId": "joy"
+  },
+  {
+    "id": "57",
+    "text": "The Lord will fulfill his purpose for me; your steadfast love, O Lord, endures forever.",
+    "author": "Psalm 138:8",
+    "categoryId": "faith"
+  },
+  {
+    "id": "58",
+    "text": "No weapon forged against you will prevail, and you will refute every tongue that accuses you.",
+    "author": "Isaiah 54:17",
+    "categoryId": "strength"
+  },
+  {
+    "id": "59",
+    "text": "Even youths grow tired and weary, and young men stumble and fall; but those who hope in the Lord will renew their strength.",
+    "author": "Isaiah 40:30-31",
+    "categoryId": "hope"
+  },
+  {
+    "id": "60",
+    "text": "You have made known to me the paths of life; you will fill me with joy in your presence.",
+    "author": "Acts 2:28",
+    "categoryId": "joy"
+  },
+  {
+    "id": "61",
+    "text": "As a father has compassion on his children, so the Lord has compassion on those who fear him.",
+    "author": "Psalm 103:13",
+    "categoryId": "compassion"
+  },
+  {
+    "id": "62",
+    "text": "I will praise the Lord all my life; I will sing praise to my God as long as I live.",
+    "author": "Psalm 146:2",
+    "categoryId": "worship"
+  },
+  {
+    "id": "63",
+    "text": "There is no fear in love. But perfect love drives out fear.",
+    "author": "1 John 4:18",
+    "categoryId": "love"
+  },
+  {
+    "id": "64",
+    "text": "You are my hiding place; you will protect me from trouble and surround me with songs of deliverance.",
+    "author": "Psalm 32:7",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "65",
+    "text": "I will never leave you nor forsake you.",
+    "author": "Hebrews 13:5",
+    "categoryId": "faith"
+  },
+  {
+    "id": "66",
+    "text": "For you created my inmost being; you knit me together in my mother’s womb.",
+    "author": "Psalm 139:13",
+    "categoryId": "identity"
+  },
+  {
+    "id": "67",
+    "text": "He gives power to the weak and strength to the powerless.",
+    "author": "Isaiah 40:29",
+    "categoryId": "strength"
+  },
+  {
+    "id": "68",
+    "text": "I will not leave you as orphans; I will come to you.",
+    "author": "John 14:18",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "69",
+    "text": "In the world you will have tribulation. But take heart; I have overcome the world.",
+    "author": "John 16:33",
+    "categoryId": "strength"
+  },
+  {
+    "id": "70",
+    "text": "God will wipe every tear from their eyes.",
+    "author": "Revelation 21:4",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "71",
+    "text": "If God is for us, who can be against us?",
+    "author": "Romans 8:31",
+    "categoryId": "faith"
+  },
+  {
+    "id": "72",
+    "text": "Let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith.",
+    "author": "Hebrews 12:1-2",
+    "categoryId": "perseverance"
+  },
+  {
+    "id": "73",
+    "text": "The Lord is good, a refuge in times of trouble. He cares for those who trust in him.",
+    "author": "Nahum 1:7",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "74",
+    "text": "You will seek me and find me when you seek me with all your heart.",
+    "author": "Jeremiah 29:13",
+    "categoryId": "faith"
+  },
+  {
+    "id": "75",
+    "text": "Do not be afraid, for I am with you; do not be dismayed, for I am your God.",
+    "author": "Isaiah 41:10",
+    "categoryId": "courage"
+  },
+  {
+    "id": "76",
+    "text": "The Lord is gracious and compassionate, slow to anger and rich in love.",
+    "author": "Psalm 145:8",
+    "categoryId": "compassion"
+  },
+  {
+    "id": "77",
+    "text": "Your word is a lamp to my feet and a light to my path.",
+    "author": "Psalm 119:105",
+    "categoryId": "guidance"
+  },
+  {
+    "id": "78",
+    "text": "He will cover you with his feathers, and under his wings you will find refuge; his faithfulness will be your shield and rampart.",
+    "author": "Psalm 91:4",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "79",
+    "text": "Be on your guard; stand firm in the faith; be courageous; be strong.",
+    "author": "1 Corinthians 16:13",
+    "categoryId": "courage"
+  },
+  {
+    "id": "80",
+    "text": "There is a time for everything, and a season for every activity under the heavens.",
+    "author": "Ecclesiastes 3:1",
+    "categoryId": "wisdom"
+  },
+  {
+    "id": "81",
+    "text": "For everything there is a season, and a time for every matter under heaven.",
+    "author": "Ecclesiastes 3:1",
+    "categoryId": "wisdom"
+  },
+  {
+    "id": "82",
+    "text": "The Lord is my strength and my song; he has become my salvation.",
+    "author": "Exodus 15:2",
+    "categoryId": "strength"
+  },
+  {
+    "id": "83",
+    "text": "I have told you this so that my joy may be in you and that your joy may be complete.",
+    "author": "John 15:11",
+    "categoryId": "joy"
+  },
+  {
+    "id": "84",
+    "text": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.",
+    "author": "James 1:5",
+    "categoryId": "wisdom"
+  },
+  {
+    "id": "85",
+    "text": "The Lord bless you and keep you; the Lord make his face shine on you and be gracious to you.",
+    "author": "Numbers 6:24-25",
+    "categoryId": "blessing"
+  },
+  {
+    "id": "86",
+    "text": "May the God of hope fill you with all joy and peace as you trust in him.",
+    "author": "Romans 15:13",
+    "categoryId": "hope"
+  },
+  {
+    "id": "87",
+    "text": "Do not be afraid of the terrors of the night, nor the arrow that flies in the day.",
+    "author": "Psalm 91:5",
+    "categoryId": "fear"
+  },
+  {
+    "id": "88",
+    "text": "The Lord is my light and my salvation; whom shall I fear?",
+    "author": "Psalm 27:1",
+    "categoryId": "faith"
+  },
+  {
+    "id": "89",
+    "text": "Come to me, all you who are weary and burdened, and I will give you rest.",
+    "author": "Matthew 11:28",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "90",
+    "text": "The Lord your God is with you, the Mighty Warrior who saves.",
+    "author": "Zephaniah 3:17",
+    "categoryId": "courage"
+  },
+  {
+    "id": "91",
+    "text": "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.",
+    "author": "Romans 5:8",
+    "categoryId": "love"
+  },
+  {
+    "id": "92",
+    "text": "Let not your heart be troubled; you believe in God, believe also in me.",
+    "author": "John 14:1",
+    "categoryId": "faith"
+  },
+  {
+    "id": "93",
+    "text": "The Lord will fight for you; you need only to be still.",
+    "author": "Exodus 14:14",
+    "categoryId": "strength"
+  },
+  {
+    "id": "94",
+    "text": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness.",
+    "author": "Galatians 5:22",
+    "categoryId": "fruit_of_the_spirit"
+  },
+  {
+    "id": "95",
+    "text": "You are my refuge and my shield; I have put my hope in your word.",
+    "author": "Psalm 119:114",
+    "categoryId": "hope"
+  },
+  {
+    "id": "96",
+    "text": "God is our refuge and strength, an ever-present help in trouble.",
+    "author": "Psalm 46:1",
+    "categoryId": "strength"
+  },
+  {
+    "id": "97",
+    "text": "When I am afraid, I put my trust in you.",
+    "author": "Psalm 56:3",
+    "categoryId": "fear"
+  },
+  {
+    "id": "98",
+    "text": "You will keep in perfect peace those whose minds are steadfast, because they trust in you.",
+    "author": "Isaiah 26:3",
+    "categoryId": "peace"
+  },
+  {
+    "id": "99",
+    "text": "The Lord is my shepherd, I lack nothing.",
+    "author": "Psalm 23:1",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "100",
+    "text": "In him we have redemption through his blood, the forgiveness of sins, in accordance with the riches of God’s grace.",
+    "author": "Ephesians 1:7",
+    "categoryId": "forgiveness"
+  },
+  {
+    "id": "101",
+    "text": "But those who hope in the Lord will renew their strength.",
+    "author": "Isaiah 40:31",
+    "categoryId": "hope"
+  },
+  {
+    "id": "102",
+    "text": "And my God will meet all your needs according to the riches of his glory in Christ Jesus.",
+    "author": "Philippians 4:19",
+    "categoryId": "provision"
+  },
+  {
+    "id": "103",
+    "text": "We love because he first loved us.",
+    "author": "1 John 4:19",
+    "categoryId": "love"
+  },
+  {
+    "id": "104",
+    "text": "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
+    "author": "Joshua 1:9",
+    "categoryId": "courage"
+  },
+  {
+    "id": "105",
+    "text": "But God, being rich in mercy, because of the great love with which he loved us.",
+    "author": "Ephesians 2:4",
+    "categoryId": "love"
+  },
+  {
+    "id": "106",
+    "text": "The Lord your God is with you, the Mighty Warrior who saves.",
+    "author": "Zephaniah 3:17",
+    "categoryId": "courage"
+  },
+  {
+    "id": "107",
+    "text": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future.",
+    "author": "Jeremiah 29:11",
+    "categoryId": "hope"
+  },
+  {
+    "id": "108",
+    "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
+    "author": "Psalm 34:18",
+    "categoryId": "sadness"
+  },
+  {
+    "id": "109",
+    "text": "Blessed are those who mourn, for they will be comforted.",
+    "author": "Matthew 5:4",
+    "categoryId": "sadness"
+  },
+  {
+    "id": "110",
+    "text": "In this world you will have trouble. But take heart! I have overcome the world.",
+    "author": "John 16:33",
+    "categoryId": "strength"
+  },
+  {
+    "id": "111",
+    "text": "The Lord is my light and my salvation; whom shall I fear?",
+    "author": "Psalm 27:1",
+    "categoryId": "faith"
+  },
+  {
+    "id": "112",
+    "text": "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary; they will walk and not be faint.",
+    "author": "Isaiah 40:31",
+    "categoryId": "hope"
+  },
+  {
+    "id": "113",
+    "text": "God is our refuge and strength, a very present help in trouble.",
+    "author": "Psalm 46:1",
+    "categoryId": "strength"
+  },
+  {
+    "id": "114",
+    "text": "I can do all things through Christ who strengthens me.",
+    "author": "Philippians 4:13",
+    "categoryId": "strength"
+  },
+  {
+    "id": "115",
+    "text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose.",
+    "author": "Romans 8:28",
+    "categoryId": "faith"
+  },
+  {
+    "id": "116",
+    "text": "You are my refuge and my shield; I have put my hope in your word.",
+    "author": "Psalm 119:114",
+    "categoryId": "hope"
+  },
+  {
+    "id": "117",
+    "text": "The Lord will fight for you; you need only to be still.",
+    "author": "Exodus 14:14",
+    "categoryId": "strength"
+  },
+  {
+    "id": "118",
+    "text": "Rejoice in the Lord always. I will say it again: Rejoice!",
+    "author": "Philippians 4:4",
+    "categoryId": "joy"
+  },
+  {
+    "id": "119",
+    "text": "Delight yourself in the Lord, and he will give you the desires of your heart.",
+    "author": "Psalm 37:4",
+    "categoryId": "hope"
+  },
+  {
+    "id": "120",
+    "text": "When I am afraid, I put my trust in you.",
+    "author": "Psalm 56:3",
+    "categoryId": "fear"
+  },
+  {
+    "id": "121",
+    "text": "The Lord is my shepherd, I lack nothing.",
+    "author": "Psalm 23:1",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "122",
+    "text": "The Lord bless you and keep you; the Lord make his face shine on you and be gracious to you.",
+    "author": "Numbers 6:24-25",
+    "categoryId": "blessing"
+  },
+  {
+    "id": "123",
+    "text": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness.",
+    "author": "Galatians 5:22",
+    "categoryId": "fruit_of_the_spirit"
+  },
+  {
+    "id": "124",
+    "text": "You are my hiding place; you will protect me from trouble and surround me with songs of deliverance.",
+    "author": "Psalm 32:7",
+    "categoryId": "comfort"
+  },
+  {
+    "id": "125",
+    "text": "You have made known to me the paths of life; you will fill me with joy in your presence.",
+    "author": "Acts 2:28",
+    "categoryId": "joy"
+  },
+  {
+    "id": "126",
+    "text": "He gives strength to the weary and increases the power of the weak.",
+    "author": "Isaiah 40:29",
+    "categoryId": "strength"
+  },
+  {
+    "id": "127",
+    "text": "You will seek me and find me when you seek me with all your heart.",
+    "author": "Jeremiah 29:13",
+    "categoryId": "faith"
+  },
+  {
+    "id": "128",
+    "text": "May the God of hope fill you with all joy and peace as you trust in him.",
+    "author": "Romans 15:13",
+    "categoryId": "hope"
+  },
+  {
+    "id": "129",
+    "text": "He who dwells in the secret place of the Most High shall abide under the shadow of the Almighty.",
+    "author": "Psalm 91:1",
+    "categoryId": "comfort"
+  }
+]
